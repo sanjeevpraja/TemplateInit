@@ -38,3 +38,15 @@ NPM dependencies
 	
 	<code>grunt-init templateinit</code
 
+**4. Folder assets, files Gruntfile.js, package.json, index.html would be generated**
+
+**5.On terminal**
+
+<code>npm install</code>
+
+*installs all npm dependencies*
+
+**6. Finally on Terminal**
+<code> grunt watch</code>
+
+*Now your project is watched for any changes on assets/less to minified css on assets/css and assets/imgorg for any change on *.png, *.gif, *.jpg to optimised image on assets/img*
