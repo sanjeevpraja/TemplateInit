@@ -96,6 +96,8 @@ grunt.file.mkdir( join(init.destpath()+'/assets', 'less'));
 grunt.file.mkdir( join(init.destpath()+'/assets', 'css'));
 grunt.file.mkdir( join(init.destpath()+'/assets', 'js'));
 
+init.copy('normalize.css', 'assets/css/normalize.css');
+
     // All done!
     done();
   });
