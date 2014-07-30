@@ -5,6 +5,8 @@ TemplateInit
 <i>By Sanjeev Praja</i>
 
 Creates basic html-skeleton with simple grunt tasks.
++  less to css and minify them
++ optimises gif,jpeg,png to other folder without overwriting original files.
 
 NPM dependencies
 --------------------------
