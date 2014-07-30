@@ -49,6 +49,6 @@ NPM dependencies
 *installs all npm dependencies*
 
 **6. Finally on Terminal**
-<code> grunt watch</code>
+<code>grunt watch</code>
 
 *Now your project is watched for any changes on assets/less to minified css on assets/css and assets/imgorg for any change on *.png, *.gif, *.jpg to optimised image on assets/img*
