@@ -38,7 +38,7 @@ NPM dependencies
 *Go to the directory you want to create project
 	The use command to create project*
 
-<code>grunt-init Templateinit</code>
+<code>grunt-init TemplateInit</code>
 
 **4. Folder assets, files Gruntfile.js, package.json, index.html would be generated**
 
